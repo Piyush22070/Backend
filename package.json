@@ -1,0 +1,12 @@
+{
+  "name": "piyushbackend",
+  "version": "1.0.0",
+  "description": "This is backend wiht learning purpose ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PIYUSH BHOYAR",
+  "license": "ISC",
+  "keywords": ["Piyush","backend","Fullstack"]
+}
